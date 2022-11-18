@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: igor-kupczynski/notion-exporter@v1.0.2
         with:
-          pages: "e883baa1ad2c4593bc3e355e5b1a9442"  # Pages IDs identified in (step 2)  
+          pages: "e883baa1ad2c4593bc3e355e5b1a9442,7cb5abf1ce0c4685aa7e10d854a7536b,dd319f92118c4edfa6305e7c91aa7569,42ad227fc3c14ecb9953d0642d920557,06038d3b2c69486b9426ec18c0fe5319,02d3c4de9a44495f86d0329382cc5cf5,a515e981a888490ab96e1711282d4c5a,7cb5abf1ce0c4685aa7e10d854a7536b,ae9d7e328da8404ea27d98e96db458db,28f2607b5f5a4dccaeb454b783de5b2c,96bfdd458cae4e39946b8e732c4fd47b,5da86c6ccd6a4c16a4a56aed6824d9cc,47e5dda41485471b80f3593d24eb11c8,1eec69dccb2c4f8ea01b1e80362f7f94,f264a34efed84c36b015186d0a3fe009"  # Pages IDs identified in (step 2)  
           output-dir: notion-backup
           notion-token: ${{ secrets.NOTION_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
