@@ -15,13 +15,13 @@ what to do when something goes wrong
 
 - Debugging
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled.png)
 
 - errors , console , check appModule
 
 - 
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%201.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%201.png)
 
 - ....
 - ....
@@ -39,9 +39,9 @@ what to do when something goes wrong
 - 
 - 
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%202.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%202.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%203.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%203.png)
 
 in angular , we use http client to make the requests
 
@@ -49,19 +49,19 @@ but how do we set the notification
 
 thats where rxJS comes in
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%204.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%204.png)
 
 observable is also called observable stream / observable sequence
 
 observable emits notifications such as next ,error ,complete
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%205.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%205.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%206.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%206.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%207.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%207.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%208.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%208.png)
 
 <aside>
 📌 **SUMMARY:**
@@ -80,14 +80,14 @@ observable emits notifications such as next ,error ,complete
 
 - ...
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%209.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%209.png)
 
 - Registering the service
 - @Injectable()
 - Provided in Root /component
 - 
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2010.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2010.png)
 
 Dependency is injected in the component using constructor
 
@@ -135,11 +135,11 @@ Event Binding
 (dragover)="myFunction()"
 ```
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2011.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2011.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2012.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2012.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2013.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2013.png)
 
 <aside>
 📌 **SUMMARY:**
@@ -158,13 +158,13 @@ Event Binding
 
 - ...
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2014.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2014.png)
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2015.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2015.png)
 
 .
 
-![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2016.png)
+![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2016.png)
 
 <aside>
 💡 OnChanges reacts to changes only on the Input properties / properties marked with @ @Input()
@@ -188,7 +188,7 @@ Event Binding
 
 - ...
     
-    ![Untitled](Angular%20094fc0de2adc4b4fa4c3f75002740c2e/Untitled%2017.png)
+    ![Untitled](Angular%20e883baa1ad2c4593bc3e355e5b1a9442/Untitled%2017.png)
     
 - ...
 

@@ -1,0 +1,24 @@
+# Terraform
+
+<aside>
+💡
+
+</aside>
+
+## 
+
+### Date: November 5, 2019
+
+### Topic:
+
+### Recall
+
+### Notes
+
+- ...
+- ...
+
+<aside>
+📌 **SUMMARY:**
+
+</aside>
