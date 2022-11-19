@@ -564,6 +564,12 @@ Just in time compiler
 
 V8 engine
 
+In browser javascript - what can it do ?
+
+what it cant do 
+
+Same origin policy
+
 ### **Notes**
 
 **//TODO - angela** 
@@ -602,6 +608,26 @@ It has also been used on the server side, for example in Couchbase and Node.js.
 
 ![Screenshot 2022-02-21 at 10.26.38 PM.png](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Screenshot_2022-02-21_at_10.26.38_PM.png)
 
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2062.png)
+
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2063.png)
+
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2064.png)
+
+# [What makes JavaScript unique?](https://javascript.info/intro#what-makes-javascript-unique)
+
+There are at least *three* great things about JavaScript:
+
+- Full integration with HTML/CSS.
+- Simple things are done simply.
+- Supported by all major browsers and enabled by default.
+
+JavaScript is the only browser technology that combines these three things.
+
+That’s what makes JavaScript unique. That’s why it’s the most widespread tool for creating browser interfaces.
+
+That said, JavaScript can be used to create servers, mobile applications, etc.
+
 <aside>
 📌 **SUMMARY:**
 
@@ -626,7 +652,7 @@ There are two limitations on variable names in JavaScript:
 - Variables declared using `const`
  are called “constants”. They cannot be reassigned. An attempt to do so would cause an error:
 
-![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2062.png)
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2065.png)
 
 <aside>
 💡 there are constants that are *calculated*
@@ -634,16 +660,16 @@ There are two limitations on variable names in JavaScript:
 
 </aside>
 
-![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2063.png)
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2066.png)
 
-![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2064.png)
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2067.png)
 
 <aside>
 📌
 
 **SUMMARY:**
 
-![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2065.png)
+![Untitled](Javascript%207cb5abf1ce0c4685aa7e10d854a7536b/Untitled%2068.png)
 
 </aside>
 
